@@ -3,9 +3,7 @@ Plugins built specifically for PurpleJabber
 
 ## How to pull the plugins via PurpleJabber
 For this, I will be using the basic, native plugin `PcURL` as an example.
-<small><i>
-If you try to pullplugin the actual PcURL plugin, it will not work, as it will already be in your library
-</i></small>
+<sup>If you try to pullplugin the actual PcURL plugin, it will not work, as it will already be in your library</sup>
 1. Run PurpleJabber
 2. Copy the following, but change the argument/parameter
 ```
